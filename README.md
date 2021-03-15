@@ -1,7 +1,9 @@
-![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=afritzler&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afritzler&hide=javascript,html,css&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/afritzler/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afritzler&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/afritzler/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afritzler&hide=javascript,html,css&layout=compact&langs_count=20" />
+</a>
 
 <!--
 **afritzler/afritzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
