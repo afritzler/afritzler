@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afritzler&hide=javascript,html,css&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **afritzler/afritzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
