@@ -1,8 +1,8 @@
 <a href="https://github.com/afritzler/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afritzler&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afritzler&count_private=true&show_icons=true&include_all_commits=true&theme=dark" />
 </a>
 <a href="https://github.com/afritzler/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afritzler&hide=javascript,html,css&layout=compact&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afritzler&hide=javascript,html,css&layout=compact&langs_count=20&theme=dark" />
 </a>
 
 ---
