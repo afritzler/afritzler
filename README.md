@@ -1,6 +1,6 @@
 ```mermaid
   graph TD;
-    start(Start)-->stop(End);
+    start(Start)-->stop(Stop);
     stop-->start;
 ```
 
