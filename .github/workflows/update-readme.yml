@@ -26,7 +26,7 @@ jobs:
         echo "$IMAGE_MD" > $README_FILE
         # Push changes
         git config user.name "Andreas Fritzler"
-        git config user.email afritzler@skiff.com
+        git config user.email andreas.fritzler@pm.me
         git add $README_FILE
         git commit -m "Update README with a random image"
         git push
