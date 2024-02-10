@@ -1,0 +1,32 @@
+name: Update README with Random Image
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update README
+      run: |
+        #!/bin/bash
+        IMAGE_DIR='./images'
+        README_FILE='README.md'
+        # Select a random image file
+        IMAGE_FILE=$(ls $IMAGE_DIR | sort -R | head -n 1)
+        # Construct image markdown
+        IMAGE_MD="![Random Image]($IMAGE_DIR/$IMAGE_FILE)"
+        # Update README.md
+        echo "$IMAGE_MD" > $README_FILE
+        # Push changes
+        git config user.name "Andreas Fritzler"
+        git config user.email afritzler@skiff.com
+        git add $README_FILE
+        git commit -m "Update README with a random image"
+        git push
+
