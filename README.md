@@ -1,1 +1,1 @@
-![Edo](images/edo1.png)
+![Edo](images/dojo2.png)
