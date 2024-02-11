@@ -1,1 +1,1 @@
-![Random Image](./images/edo1.png)
+![Random Image](./images/dojo2.png)
