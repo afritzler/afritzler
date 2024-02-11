@@ -23,8 +23,7 @@ jobs:
         # Construct image markdown
         IMAGE_MD="![Random Image]($IMAGE_DIR/$IMAGE_FILE)"
         # Update README.md
-        echo "こんにちは、アンドレアスです。 私のプロフィールへようこそ。" > $README_FILE
-        echo "$IMAGE_MD" >> $README_FILE
+        echo "$IMAGE_MD" > $README_FILE
         # Push changes
         git config user.name "Andreas Fritzler"
         git config user.email andreas.fritzler@pm.me
