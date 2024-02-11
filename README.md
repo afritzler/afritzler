@@ -1,1 +1,1 @@
-![Random Image](./images/dojo2.png)
+![Random Image](./images/restaurant1.webp)
