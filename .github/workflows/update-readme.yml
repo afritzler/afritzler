@@ -24,6 +24,7 @@ jobs:
         IMAGE_MD="![Random Image]($IMAGE_DIR/$IMAGE_FILE)"
         # Update README.md
         echo "$IMAGE_MD" > $README_FILE
+        echo "README_FILE=$README_FILE" >> $GITHUB_ENV
 
     - name: Check for changes
       id: check_changes
