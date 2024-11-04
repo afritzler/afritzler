@@ -1,1 +1,1 @@
-![Random Image](./images/dojo1.webp)
+![Random Image](./images/temple1.webp)
