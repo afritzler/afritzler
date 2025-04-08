@@ -2,8 +2,8 @@ name: Update README with Random Image
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
-    - cron: '0 0 * * *'
+    # Run every Monday
+    - cron: '0 0 * * 1'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
