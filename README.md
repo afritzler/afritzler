@@ -1,1 +1,1 @@
-![Random Image](./images/dojo3.webp)
+![Random Image](./images/swordmaster1.webp)
